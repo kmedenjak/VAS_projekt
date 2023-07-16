@@ -16,6 +16,8 @@
 - Pokretanje programa: 
   1. conda activate base
   2. python nazivPrograma.py
+  NAPOMENTA: Prvo je potrebno pokrenuti svakog agenta za sebe, a zatim gamemastera
+  
 
 # Agenti
 
